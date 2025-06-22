@@ -27,7 +27,7 @@ Slicers have been added for:
 - Excel Pivot Tables  
 - Excel Pivot Charts  
 - Interactive Slicers  
-- Basic data cleaning (removing blanks, formatting columns)  
+- Data cleaning (removing blanks, formatting columns, removing duplicates)  
 - Dynamic dashboard layout and styling  
 
 ---
@@ -45,13 +45,13 @@ Slicers have been added for:
 
 - The dataset contains customer demographic, income, and behavioral data.
 - Columns include: `Gender`, `Income`, `Purchased Bike`, `Age Bracket`, `Commute Distance`, `Marital Status`, `Region`, `Occupation`, and `Education`.
-- (If this is a public dataset, add source URL. If it's synthetic, mention that here.)
-
+- `ExcelProjectDataset.xlsx` is the orignal uncleaned dataset.
+- `BikeSales.xlsx` is the cleaned and formatted dataset containing pivot tables , slicers and the dashboard.
 ---
 
 ## 🚀 How to Use
 
-1. Open the `BikeSalesDashboard.xlsx` file in Microsoft Excel (2016 or later recommended).
+1. Open the `BikeSales.xlsx` file in Microsoft Excel (2016 or later recommended).
 2. Use the slicers on the left to filter data dynamically.
 3. Observe how charts respond to different combinations of filters.
 
