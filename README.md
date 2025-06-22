@@ -6,7 +6,10 @@ This project showcases a dynamic and interactive **Bike Sales Dashboard** create
 
 ## 📊 Dashboard Overview
 
-![Bike Sales Dashboard](assets/BikeSalesDashboard.png)
+![Bike Sales Dashboard]
+
+![BikeSalesDashboard](https://github.com/user-attachments/assets/18ed1aaa-8d9a-42db-8413-216a52d3c48b)
+
 
 The dashboard enables users to interactively filter and analyze key metrics such as:
 - **Average Income Per Purchase**
