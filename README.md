@@ -60,14 +60,6 @@ Slicers have been added for:
 
 ---
 
-## 🙋‍♂️ Author
-
-**Sujal Israni**  
-3rd Year Computer Engineering Student  
-🔗 [LinkedIn](https://www.linkedin.com/) | 🌐 [GitHub](https://github.com/)
-
----
-
 ## 📌 License
 
 This project is open source and available under the [MIT License](LICENSE).
